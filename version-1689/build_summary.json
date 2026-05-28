@@ -1,0 +1,23 @@
+{
+  "movie_count": 2000,
+  "category_counts": {
+    "drama": 200,
+    "love": 200,
+    "thriller": 200,
+    "crime": 200,
+    "war": 200,
+    "sci-fi": 200,
+    "action": 200,
+    "comedy": 200,
+    "history": 200,
+    "mystery": 200
+  },
+  "featured": [
+    "杜桑·卢维杜尔",
+    "街头故事",
+    "巫婆不坏",
+    "冤家兄弟",
+    "山海伏魔录",
+    "上海滩喋血枭雄"
+  ]
+}
